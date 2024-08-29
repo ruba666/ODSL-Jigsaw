@@ -1,4 +1,4 @@
-#Research Study: Improving Document Creation with ODSL and Jigsaw System
+Research Study: Improving Document Creation with ODSL and Jigsaw System
 
 Introduction
 Creating documents, presentations, and spreadsheets can take a lot of time and effort, especially for people who aren’t experts with advanced software tools. This study explores how we developed the ODSL-Jigsaw system, a tool designed to make creating these documents easier. The system allows users to give commands in simple, everyday language, which are then turned into actions by the system using a combination of Domain-Specific Languages (DSLs) and program synthesis techniques.
